@@ -1,0 +1,15 @@
+book_filename: "capasm"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
+rmd_files: ["index.Rmd",
+            "data_collection.Rmd",
+            "eDNA.Rmd",
+            "appendices.Rmd",
+            "app_personnel_shifts.Rmd",
+            "app_tel_dir.Rmd",
+            "app_cap_mat.Rmd",
+            "app_mik.Rmd",
+            "app_bongo.Rmd"]
+

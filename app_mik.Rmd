@@ -1,0 +1,13 @@
+# Sampling with MIK-VII {#app:mik}
+
+Capelin larvae and 0-group will be collected in the so-called MIK-net (`Midwater Ring Net`) purpose built for the project in 2017 (Figure ref(fig:MIK). The gear opening is circular with 2 m diameter with a 13m long net with 2 mm mesh attached. A flow meter is placed in the center of the opening and a depth sensor (from the trarwl system) is attached to the steel ring. From the lower part of the gear a weight is suspended, attached with wire multi-legged slings (`hanafætur`) to the ring.
+
+The MIK-net is towed at 3 knots for a V-shaped trajectory from the surface down to 100 m and to the surface again. The times when the net is lowered from the surface and when it breaks the surface again at the end of the tow are registred. At depths less then 100 m the net is lowered to approx. 5 m from bottom.
+
+Attempt to give out ~25 m of wire per minute (=0.5 m s^-1^) and haul back at ~14 m/min (=0.25 m s^-1^). This is done to get the appropriate length of deployment under water and match with the speed of the vessel. The whole operation should take approx. 25--30 minutes.
+
+When the net is back on deck it is necessary to rinse/spool at least the last 2 m of net along with the finer meshed lining into the collector bucket.
+
+In the lab the sample is poured onto a white tray and capelin larvae picked out as time permits and placed in a sample vial with 70% ethanol. The rest of the sample is placed in 4% formaldehyde. If there is not enough time to separte the capelin larvae/0-group from the rest the whole sample is placed in 70% ethanol.
+
+ 

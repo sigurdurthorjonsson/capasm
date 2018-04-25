@@ -1,3 +1,8 @@
+_book
+_bookdown_files
+*~
+*.html
+
 # History files
 .Rhistory
 .Rapp.history
@@ -31,3 +36,11 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+.Rproj.user
+
+# files kept in my git-working-dir for convenience
+img/male_orig.jpg
+img/female_orig.jpg
+KynthroskiLodnu_AHO_V2.docx
+HaustmaelingLodnu2017.docx
+HaustmaelingLodnu2017.pdf

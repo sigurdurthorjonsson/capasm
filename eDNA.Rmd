@@ -1,0 +1,21 @@
+# eDNA
+
+On ~10 CTD-stations on Árni Friðriksson 1.5 l samples of seawater will
+be collected from 4 depths at each station. Each sample will be
+filtered trough 45 mm Whatman GF/F filters in the filtering setup in
+underway surface sampling instrument room. A pincette/tweezers shall
+be used to manouver the filter and the pincette must be cleaned
+thorougly between stations. The filter is rolled up with the tweezer
+tightly enough to fit in the sample vial. The vial is marked with a
+running number and on an accompanying form the survey, station, depth
+is recorded. The sample is then frozen and has to remain frozen until
+analyezed on in a lab on-shore.
+ 
+
+The aim of this project is to determine if capelin DNA is detectable
+in the sample, which would then be an indication of capelin presence
+in the area within a certain timeframe, even though no capelin are
+observed with traditional methods. Furthermore it is hoped that the
+method can be developed in a way that would make it possible in the
+future to detect immediately whether or not capelin DNA is present in
+the sample.

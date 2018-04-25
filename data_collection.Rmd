@@ -1,0 +1,212 @@
+# Data collection
+
+## Station information
+
+For every station one station sheet should be filled out. The chief
+scientist oversees the stations sheets and enters the information into
+SeaScale. If something goes wrong during trawling it should be noted
+and a decision taken on whether or not to trawl again. If a station is
+repeated a new station is created with a new station ID / number.
+
+| Variable |                    Description                                            |
+|----------|---------------------------------------------------------------------------|
+| Survey ID | _E.g._ `A9` for Árni Friðriksson, ninth survey of year. |
+| Year | 4 digits, _e.g._ `2016`. |
+| Station | Running number. |
+| Ship ID | 4 digits, _e.g._ `2350` for Árni Friðriksson. |
+| Date | Day and month, `dd/mm`. |
+| Gear | Gear ID. |
+| Mesh size | Mesh size in codend. |
+| Sweep length | Length of sweeps in fathoms. | 
+| Gear ID | ID of the specific trawl used. |
+| Total catch | Total catch in kg. |
+| Position of set and haul in | Latitude and longitude in degrees, minutes and decimal minutes (DD°MM.mm) according to GPS positioning. |
+| Time^[At start and stop of tow. Start: when the trawl has reached towing depth. Stop: when hauled back from towing depth.] | Time (HH:MM) at start and end of tow. |
+| Tow direction | Tow direction in degrees. Average during tow. |
+| Bottom depth | Bottom depth in meters. |
+| Towing depth | Towing depth (depth of trawl headline) in meters. |
+| Vertical opening | Vertical opening of the trawl in meters. Average for the tow according to gear sensors. |
+| Door spread | Door spred in meters. Avareg for the tow according to gear sensors. |
+| Wire length | Length of wire given out on the tow in fathoms. Average for the tow. | 
+| Tow length | Towlength in nautical miles accodingt to track on GPS. |
+| Tow duration | Duration of tow in minutes. Time from start to end of tow (i.e. at towing depth). |
+| Tow speed | Tow speed (nmi h^-1^) according to towlength and tow duration. |
+
+
+## Trawl samples
+
+Towing will be undertaken with a Multpelt trawl modified for a caplin
+codend on r/v Árni Friðriksson, a capelin/O-group pelagic trawl (1616)
+and Isnet (416) on r/v Bjarni Sæmundsson as acoustic registrations
+indicate and the instrument watch decides. Trawl samples are very
+important during interpretation of the acoustics and estimating the
+compositionof the stock and it is therefore important to collect
+sufficient number of trawl samples. Situations can arise where
+separate acoustic registrations at different depths give occation for
+trawling twice in the same location to get separate samples.
+
+## Fish biology
+
+Researchers work up samples from trawl catches right away, towing is
+undertaken around the clock. All catch is taken below deck, weighed in
+batches in the trough weight (~85 kg) on board r/v Árni Friðriksson,
+but on board r/v Bjarni Sæmundsson volumetry is used, in baskets or
+using the trough in the `gutting-table`. A capelin sample is taken in
+a bucket in the middle of the catch, or at least not the first or last
+part of the catch. The whole catch is sorted by species in
+co-operation between deck hands and researcheres, generally that
+entails sorting a small amount of other catch from the capelin. Catch
+of each species is weighed and measured (_viðauka sleppt_), by-catch
+species are measured and/or sampled for otoliths accoding to Table
+ref(tab:sampling). Age determination is done on-board if
+possible. Instructions for capelin otolith extraction can be found in
+quality handbook, section 4.02. Note that the order of fish must be
+random. Length, ungutted weight, sex and maturity is collected on fish
+selected for otolith extraction.
+
+Lumpfish: Sample one female and one male on each station, determine
+length, ungutted weight, sex, maturity, gonad weight, liver weight,
+gutted weight and extract otoliths. Measure length and determin sex
+(sexed length measurement) of upto 20 fish per station.
+
+Enmeshed capelin shall be shaken from the trawl, which will be
+examined by the researcher with regard to propotions of juvenile and
+0-group capelin. Length measurement taken from 50 0-group capelin to
+the nearest mm, registred as species 931. Total weight of the 50
+capelin 0-group/larvae shall also be recorded.
+
+| Species | No length measurements | No otoliths | Ch. Q-handbook | Unit | Measuring board |
+|---------|------------------------|-------------|----------------|------|--------------------|
+| Capelin | 100 | 100 | 4.02.05 | 0.5 cm | Capelin board |
+| Capelin 0-group | 50 | | | 1 mm | mm board/paper |
+| Herring | 150 | 50^[Collect hearts from the otolith sampled herring (50 per station) in order to assess infestation] | 4.02.04 | 1 cm | Herring board |
+| Blue whiting | 100 | 25 | 4.02.06 | 1 cm | Herring board |
+| Mackerel | 100 | 50 | 4.02.22 | 1 cm | Herring board |
+| Lumpfish | 20^[Sexed length measurement] | 1 male + 1 female | ? | 1 cm | Standard fish board |
+| Myctophids and pearlsides | 50 | | | 1 mm | mm board/paper |
+| Other |100 | | | 1 cm, generally | Standard fish board |
+
+## Acoustic measurements
+
+Acoustic measurements are conducted along predetermined
+transects/sections and it is important to keep the correct heading and
+it is expressly forbidden to swerve off the track on schools while on
+transect. After taking a trawl sample acoustic measuremnts should
+start again at the postition reached before going off transect for the
+haul. Usually the vessel turns back to tow on registrations according
+to decicions made by the instrument watch. Towing in the transect
+direction generally does not give a valid measuremnt. It is necessary
+to keep a good instrument watch logbook. Trawl sampling and other
+events during acoustic surveying should be recorded in a digital
+instrument watch logbook. Vessel track shall be logged continously as
+gpx with OpenCPN at the instrument watch, in addition every stations
+shall be marked. It is useful if such waypoints contain a link to
+information about each station, e.g. CTD-info or trawl sample
+compostion. Track and waypoints shall be saved regularily in
+gpx-format (`Export as GPX`) or at least once every 24 hours.
+ 
+Acoustic data are collected to 500 m depth on the 'narrow band'
+frequencies on offer by the acoustic instrumentation of the vessel
+(see table). Raw data (.raw) are saved and acoustic registations on 38
+kHz interpreted as capelin are saved as back-scatter (NASC, Nautical
+Area Scattering Coefficient in sA-units (m^2^/nmi^2^)) with -70 dB
+lower thresold in 0.1 nmi integration intervals in the LSSS
+post-processing program.
+
+| Vessel |  Echo sounder | Frequencies (kHz) |
+|--------|---------------|-------------------|
+| Árni Friðriksson | Simrad EK60 | 18, 38, 120, 200 |
+| Bjarni Sæmundson | Simrad EK60 | 18, 38, 120 |
+
+If possible two independent interpretations/scrutinizations of
+acoustic data should be made by two scientists before the final
+interpretation is determined. After that average NASC is found in
+quadrangles of dimensions 30' latitude and 1° longitude. Trawl samples
+are used to assess size distribution and stock composition and the
+amount of capelin. Acoustic instruments are monitored 24/7 by the
+instrument watch, in addtion it is expected that each member of the
+instument watch uses 4 hours every day on post processing,
+calculations and other duties. Acoustic interpretation should be done
+continously during survey so that it is possible to deliver a stock
+estimate at the end of the survey. As soon as possible (a few days)
+after the survey finishes a survey report and a report on the stock
+estimate of capelin should be finished.
+
+## Echosounder calibration
+
+If conditions permit the echosounder should be calibrated at the
+beginning and end of the survey, but at the earliest opportunity
+otherwise. The calibration proceduer is mostly according to Demer et
+al 2015. See also acoustics handbook/section of quality handbook.
+
+## Capelin larvae / 0-group (MIK-VII)
+
+Capelin larvae or 0-group will be collected on a selected station as
+part of the project 'Distribution, origion and fate of capaelin
+larvae'. Capelin larvae and 0-group will be collected in the MIK-net
+('Midwater Ring Net')(see Appendix \@ref(app:mik)).
+
+## Capelin gondads
+
+The aim of the project is making the estimation in autumn of
+proportion of mature capelin more reliable. This entails using
+microscopy of gonads to determin maturity stage along with traditional
+macroscopic determination. Improving the maturity staging key is aimed
+for in order to make the split between mature and immature capelin
+easier and more reliable which is important for estimation of the size
+of the fishable stock in autumn.
+
+Gonads from a subsamples of the capelin in the otolith sample will be
+maturity staged, photographed and fixated in formaldehyde for
+microscopic examination and sectioning ashore. The chief scientist
+determines the sampling extent and intensity, but special emphasis
+will be put on getting good coverge of samples close to the transitino
+between stages 2 and 3.
+
+## Stomach sampling
+
+On every third trawl station 5 capelin stomachs from the capelin
+sampled for otoliths will be collected and preserved in ethanol.
+
+## Zooplankton (Bongo)
+
+Samples will be collected with Bongo-net (see Appendix
+\@ref(app:bongo)) on Árni Friðriksson in order to assess zooplankton
+abundance and composition in selected areas.
+
+## CTD / hydrography
+
+Hydrography will be conducted by taking CTD-stations on sections
+across the capelin distribution. The CTD-probe is lowered down to 500
+m or to the bottom when it is shallower and a seawater sample will be
+collected at the deepest point. CTD-measurements (temperature,
+salinity etc.) give information on environmental parameters linked to
+capelin migration in addition to enabling estimation of sound speed
+and absorption through the water column for correct parametrization of
+the echosounders which is importatnd with comparioson of back-scatter
+on different frequencies.
+
+## Continous recoding of surface environmental paramteres (underway)
+
+Continous recordings of at least temperature and salinity in the
+surface is on-going underway for the whole survey (See appendix
+_sleppt í bili_).
+
+## Current measuremnts
+
+Current measurements (ADCP) will be undertaken when the opportunity
+arises, _e.g._ when sailing back onto the transect after a trawl
+station, in order to collect information on currents and possibly also
+capelin migration speed.
+
+## Recording trawl trajectory
+
+Scanmar recordings of trawl paramters (door spread, tilt, depth, wire length) will be collected during all tows on r/v Árni Friðriksson.
+
+It is possible that a headline sonar will be depoyed on a subset of the trawl stations in the survey, registering the shape of the trawl in different conditions.   
+
+## Whale observations
+
+Distribution of whales will be monitored in relation to capelin
+distribution. Four whale observers will be on each vesssel observing
+during daylight hours when conditions permit.

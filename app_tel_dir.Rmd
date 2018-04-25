@@ -1,0 +1,17 @@
+# Telephone directory
+
+## Árni Friðriksson
+
+* 412 1111 Bridge
+* 412 1105 Machine room
+* 412 1106 Crew
+* 412 1107 Crew
+
+## Bjarni Sæmundsson
+
+* 412 1133 Bridge
+* 412 1138 Machine room
+* 412 1134 Crew
+* 412 1135 Crew
+
+## Eros

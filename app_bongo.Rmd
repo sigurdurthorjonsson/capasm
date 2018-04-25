@@ -1,0 +1,51 @@
+# Sampling with Bongo net {#app:bongo}
+
+A Bongo net is in fact two nets attched together (like googles or
+glasses). To estimate the volume of seawater that is filtered by the
+net a flow meter is attached in one of the openings, but depth is
+monitored with a Scanmar depth sensor attached to the wire just above
+the net. Mesh size is 500 $\mu$m.
+
+## Sampling
+
+1. During sampling with Bongo-net the vessel sails slowly (2.5 knots
+or nmi h^-1^) the net is let out on the windward side. Captain or
+first mate deteremine when to start letting out and monitor the depth
+as the net decends, notifying when the desired depth is reached.
+
+2. Before the net is put out a reading is taken from the flow meter in
+the net opening.
+
+3. During sampling the net is let out down to 200 m depth and then
+hauled back in while the vessel move along at 2.5 knots, resulting in
+a U-shaped profile/trajectory through the water column. It is
+endevoured to keep the both descent and ascent rate close to 10 m
+^-min^.
+
+4. When the net has been taken out of the water the net is rinsed
+thoroughly with seawater (to flush all animals down into the
+collecting bucket). If the weather is clement this can be achieved
+with the net hanging by and outside the side of the ship, using the
+ships 'spúll'/seawater hose on deck, taking care to regulate the power
+of the seawater flow since excessive strength will damage the animals.
+
+5. The net is taken on-board and lowered carefully onto the deck. When the net is placed on the deck take care not to let the flow-meter hit the deck, because that can offset its rotation axis and damage the meter. It is recommended a deck hand or researcher holds the Bongo-net while it is being lowered to ensure a soft landing. Note that flow-meters are very expensive.
+
+6. After the operation a reading is taken from the flow-meter.
+
+7. Finally, the collecting buckets are removed and they are taken into the lab where the samples are processed.
+
+NOTE flow-meter readings at start end of each Bongo deployment shall
+be recorded on the zooplankton forms.
+
+## Sample processing
+
+One sample is preserved in 4% formaldehyde solution, the other is frozen in a zip-lock plastic bag.
+
+Mark all cups and bags (station number, date, instrument).
+
+Station information shall be entered on a made-for-purpose net deployment station form. __Hvar er þetta blað, má nota það fyrir átutroll, MIK, Bongo, ... ???__
+
+__Mætti kannski skreyta með mynd af `gleraugnaháfnum`???__
+
+__Droppa undirskriftinni, þetta getur alve verið nafnlaust__

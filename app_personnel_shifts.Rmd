@@ -1,0 +1,50 @@
+# Personnel, roles and shifts
+
+## Árni Friðriksson
+
+|           Name                  |            Role         |           Shift         |
+|---------------------------------|-------------------------|-------------------------|
+| Birkir Bárðarson | Chief Scientist/Instrument watch | 08--12, 20--24, + 4 hours processing |
+| Sigurvin Bjarnason | Instrument watch | 24--04, 12--16, + 4 hours processing 
+|| ??? | Instrument watch | 04--08, 16--20, + 4 hours processing |
+| Hildur Pétursdóttir | Zooplankton |  |
+| Maria Dolores Perez Hernandez | Hydrography |  |
+| Agnar Már Sigurðsson | Biological samples/nets |  |
+| ??? | Photography |  |
+| Tryggvi Sveinsson | Whale observation and tagging |  |
+| ??? | Whale observation |  |
+| ??? | Whale/bird observation |  |
+| ??? | Whale/bird observation |  |
+
+
+## Bjarni Sæmundsson
+
+|           Name                  |            Role         |           Shift         |
+|---------------------------------|-------------------------|-------------------------|
+| Björn Ævarr Steinarsson | Chief Scientist/Instrument watch | 08--12, 20--24, + 4 hours processing |
+| Björn Sigurðarson | Technichian/Engineer/Instrument watch | 24--04, 12--16, + 4 hours processing |
+| Teresa Sofia Giesta da Silva | Instrument watch | 04--08, 16--20, + 4 hours processing |
+| Ragnhildur Ólafsdóttir | Biological samples/nets |  |
+| Sólrún Sigurgeirsdóttir | Biological samples/nets |  |
+| ??? | Whale observation |  |
+| ??? | Whale observation |  |
+| ??? | Whale/bird observation |  |
+| ??? | Whale/bird observation |  |
+
+
+## Eros
+
+|           Name                  |            Role         |           Shift         |
+|---------------------------------|-------------------------|-------------------------|
+| ??? | Chief Scientist/Instrument watch | 08--12, 20--24, + 4 hours processing |
+|| ??? | Technician/Engineer/Instrument watch | 24--04, 12--16, + 4 hours processing |
+| Sigurður Þór Jónsson | Advisor/Instrument watch | 04--08, 16--20, + 4 hours processing |
+| ??? | Zooplankton ??? |  |
+| ??? | Hydrography ??? |  |
+| ??? | Biological samples/nets |  |
+| ??? | Biological samples/nets |  |
+| ??? | Whale observation |  |
+| ??? | Whale observation |  |
+| ??? | Whale/bird observation |  |
+| ??? | Whale/bird observation |  |
+
