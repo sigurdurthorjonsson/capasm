@@ -146,7 +146,7 @@ part of the project 'Distribution, origion and fate of capaelin
 larvae'. Capelin larvae and 0-group will be collected in the MIK-net
 ('Midwater Ring Net')(see Appendix \@ref(app:mik)).
 
-## Capelin gondads
+## Capelin gonads
 
 The aim of the project is making the estimation in autumn of
 proportion of mature capelin more reliable. This entails using
