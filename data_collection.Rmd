@@ -136,8 +136,8 @@ estimate of capelin should be finished.
 
 If conditions permit the echosounder should be calibrated at the
 beginning and end of the survey, but at the earliest opportunity
-otherwise. The calibration proceduer is mostly according to Demer et
-al 2015. See also acoustics handbook/section of quality handbook.
+otherwise. The calibration proceduer is mostly according to [@demer2015].
+See also appendix to acoustics manual/section of quality handbook.
 
 ## Capelin larvae / 0-group (MIK-VII)
 

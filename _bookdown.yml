@@ -11,5 +11,6 @@ rmd_files: ["index.Rmd",
             "app_tel_dir.Rmd",
             "app_cap_mat.Rmd",
             "app_mik.Rmd",
-            "app_bongo.Rmd"]
+            "app_bongo.Rmd",
+            "references.Rmd"]
 
