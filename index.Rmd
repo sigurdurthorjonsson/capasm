@@ -47,6 +47,6 @@ execution of the survey. According to this plan total sailed distance,
 both on transects and steaming, will be approx. 7800 nmi. Árni
 Friðriksson will take part for 22 days, Bjarni Sæmundsson for 19.
 
-```{r track, fig.cap="Planned tracks"}
+```{r track, fig.cap="Planned tracks",echo=FALSE}
 knitr::include_graphics("img/planned_tracks.png")
 ```

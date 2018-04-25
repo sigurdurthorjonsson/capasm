@@ -8,8 +8,8 @@ SeaScale. If something goes wrong during trawling it should be noted
 and a decision taken on whether or not to trawl again. If a station is
 repeated a new station is created with a new station ID / number.
 
-| Variable |                    Description                                            |
-|----------|---------------------------------------------------------------------------|
+| Variable     |                    Description                                |
+|--------------|---------------------------------------------------------------|
 | Survey ID | _E.g._ `A9` for Árni Friðriksson, ninth survey of year. |
 | Year | 4 digits, _e.g._ `2016`. |
 | Station | Running number. |
