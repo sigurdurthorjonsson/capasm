@@ -3,7 +3,7 @@
 (ref:capt-female) Female capelin (©Jón Baldur Hlíðberg). 
 
 ```{r female, fig.cap='(ref:capt-female)',echo=FALSE}
-knitr::include_graphics(c("img/female.jpg", "img/male.jpg"))
+knitr::include_graphics("img/female.jpg")
 ```
 
 (ref:capt-male) Male capelin (©Jón Baldur Hlíðberg). 

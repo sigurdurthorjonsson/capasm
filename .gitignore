@@ -41,6 +41,7 @@ vignettes/*.pdf
 # files kept in my git-working-dir for convenience
 img/male_orig.jpg
 img/female_orig.jpg
+img/resample.sh
 KynthroskiLodnu_AHO_V2.docx
 HaustmaelingLodnu2017.docx
 HaustmaelingLodnu2017.pdf
